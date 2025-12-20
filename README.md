@@ -18,11 +18,11 @@ This screenshot shows the created `Mojado_KitchenUtensils_Logs` collection with 
 
 ### 2. Cloud Firestore Security Rules
 Initial security rules configured for the development phase.
-![Firestore Security Rules](mojado2.png)
+![Firestore Security Rules](Firebase_Rules.png)
 
 ### 3. Realtime Database
 The Realtime Database console showing the successfully initialized database structure.
-![Realtime Database Console](mojado3.png)
+![Realtime Database Console](RealTime.png)
 
 ### 4. Realtime Database Security Rules
 Security rules for the Realtime Database, set with an expiration date for development access.
